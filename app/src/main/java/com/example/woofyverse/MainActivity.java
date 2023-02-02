@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         webView.setWebViewClient(client);
         webView.getSettings().setJavaScriptEnabled(true);
 
-        webView.loadUrl("https://woofyverse.herokuapp.com/");
+        webView.loadUrl("https://woofyverse.in");
     }
 
     @Override
